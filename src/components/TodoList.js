@@ -43,7 +43,7 @@ function TodoList() {
 
     return (
         <div>
-            <h1>What's up fam?</h1>
+            <h1>What are you doing today?</h1>
             <TodoForm onSubmit={addTodo}/>
             <Todo todos={todos} completeTodo={completeTodo} removeTodo = {removeTodo} updateTodo={updateTodo}/>
         </div>
