@@ -10,4 +10,5 @@
 2. CSS
 3. Javascript
 4. ReactJS
-
+### Screenshoot of the app
+![Screenshot_1](https://user-images.githubusercontent.com/66512187/115213271-a8904b00-a101-11eb-9193-e90304dd1ff4.png)
